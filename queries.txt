@@ -1,0 +1,12 @@
+query {
+  welcome,
+  greet(name: "riya")
+}
+
+query {
+  welcome,
+}
+
+query {
+  greet(name: "riya")
+}
